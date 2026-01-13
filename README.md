@@ -66,7 +66,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 <p align="left">
   <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dalario&show_icons=true&theme=tokyonight&include_all_commits=true" height="195" />
-
+<br clear="both">
   <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dalario&theme=tokyonight&layout=compact&hide_title=true" height="195" />
 </p>
 <br clear="both">
