@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Dalário Aerton
+# Dalário Aerton
 
 **`Desenvolvedor Mobile`**
 
@@ -13,6 +13,7 @@ Me chamo Dalário Aerton, sou pernambucano e acadêmico de Engenharia da Computa
         />
     </a>
     </a>
+    <img alt="Educação" src="https://custom-icon-badges.demolab.com/badge/Formação-UNIVASF-blue?style=for-the-badge&logo=book&logoColor=white&labelColor=2980b9" />
 </p>
 
 ---
@@ -65,9 +66,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ### 📊 Estatísticas
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dalario&show_icons=true&theme=tokyonight&include_all_commits=true" height="195" />
-<br clear="both">
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dalario&theme=tokyonight&layout=compact&hide_title=true" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dalario&show_icons=true&theme=tokyonight&include_all_commits=true" height="175" style="margin-right: 15px;" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dalario&theme=tokyonight&layout=compact&hide_title=true" height="175" />
 </p>
 <br clear="both">
 
