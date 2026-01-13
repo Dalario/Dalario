@@ -12,20 +12,7 @@ Me chamo Dalário Aerton, sou pernambucano e acadêmico de Engenharia da Computa
             src="https://custom-icon-badges.demolab.com/badge/-Repositórios-yellow?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="//wa.me/5587996515403" target="_blank">
-        <img 
-           alt="Contato" 
-        title="Numero de contato"
-            src="https://custom-icon-badges.demolab.com/badge/-(87)99651--5403-green?style=for-the-badge&logo=phone&logoColor=white"
-        />
     </a>
-    <a href="mailto:aertondalario@gmail.com">
-    <img 
-        alt="E-mail" 
-        title="Entre em contato por e-mail"
-        src="https://custom-icon-badges.demolab.com/badge/aertondalario@gmail.com-236ad3?style=for-the-badge&logo=mention&logoColor=white&labelColor=1155ba"
-    />
-</a>
 </p>
 
 ---
@@ -77,20 +64,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<table align="left" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dalario&show_icons=true&theme=tokyonight&include_all_commits=true" height="185px" />
+    </td>
+    <td width="50%" align="left" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dalario&theme=tokyonight&layout=compact&hide_title=true" height="185px" />
+    </td>
+  </tr>
+</table>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+### 📱 Conecte-se comigo
+<p align="left">
+  <a href="mailto:aertondalario@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/E--mail-Contatar-236ad3?style=for-the-badge&logo=mention&logoColor=white&labelColor=1155ba" />
+  </a>
+  <a href="https://wa.me/5587996515403" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Conversar-236ad3?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1155ba" />
+  </a>
 </p>
