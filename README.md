@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Mobile`**
 
-Me chamo Dalário Aerton, sou pernambucano e acadêmico de Engenharia da Computação pela UNIVASF. Meu foco principal está no desenvolvimento Android, onde utilizo Kotlin e Firebase para construir aplicações funcionais e bem estruturadas. Além da dedicação ao ecossistema Google, também possuo bagagem prática em Swift (iOS), o que me dá uma visão ampla sobre o desenvolvimento mobile nativo. Procuro aplicar o raciocínio lógico da engenharia para resolver problemas reais através do código, compartilhando aqui no GitHub meus projetos e minha evolução constante.
+Me chamo Dalário Aerton, sou pernambucano e acadêmico de Engenharia da Computação pela UNIVASF. Meu foco principal está no desenvolvimento Android, onde utilizo Kotlin e Firebase para construir aplicações funcionais e bem estruturadas. Além da dedicação ao ecossistema Google, também possuo bagagem prática em Swift (iOS), o que me dá uma visão ampla sobre o desenvolvimento mobile nativo. Procuro aplicar o raciocínio lógico da engenharia para resolver problemas reais através do código, compartilhando aqui no GitHub meus projetos e minha evolução constante. 
 
 <p align="left">
     <a href="https://github.com/Dalario?tab=repositories&sort=stargazers">
