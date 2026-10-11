@@ -26,7 +26,7 @@ Me chamo Dalário Aerton, sou pernambucano e acadêmico de Engenharia da Computa
 
 <p align="left">
   <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Commits, PRs, issues e estrelas" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Dalario&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Dalario&theme=tokyonight&hide_border=true&hide_current_streak=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
 ### 📱 Conecte-se comigo
