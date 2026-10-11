@@ -20,51 +20,13 @@ Me chamo Dalário Aerton, sou pernambucano e acadêmico de Engenharia da Computa
 
 ### 🤖 Linguagens e Tecnologias
 
-**Linguagens**
-
-<p align="left">
-  <img alt="Kotlin" title="Kotlin" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;
-  <img alt="TypeScript" title="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
-  <img alt="Python" title="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-  <img alt="C++" title="C++" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-  <img alt="Swift" title="Swift" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />&nbsp;
-</p>
-
-**Mobile**
-
-<p align="left">
-  <img alt="Android" title="Android" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />&nbsp;
-  <img alt="Jetpack Compose" title="Jetpack Compose" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />&nbsp;
-  <img alt="Android Studio" title="Android Studio" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />&nbsp;
-</p>
-
-**Back-end e dados**
-
-<p align="left">
-  <img alt="Firebase" title="Firebase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />&nbsp;
-  <img alt="Supabase" title="Supabase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />&nbsp;
-  <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;
-  <img alt="Prisma" title="Prisma" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />&nbsp;
-  <img alt="FastAPI" title="FastAPI" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />&nbsp;
-</p>
-
-**IoT e ferramentas**
-
-<p align="left">
-  <img alt="Arduino / ESP32" title="Arduino / ESP32" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />&nbsp;
-  <img alt="Railway" title="Railway" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" />&nbsp;
-  <img alt="Git" title="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-  <img alt="VS Code" title="VS Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;
-</p>
+<p align="left"><img alt="Kotlin" title="Kotlin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;<img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;<img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;<img alt="C++" title="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;<img alt="Swift" title="Swift" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />&nbsp;<img alt="Android" title="Android" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />&nbsp;<img alt="Jetpack Compose" title="Jetpack Compose" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />&nbsp;<img alt="Android Studio" title="Android Studio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />&nbsp;<img alt="Firebase" title="Firebase" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />&nbsp;<img alt="Supabase" title="Supabase" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />&nbsp;<img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;<img alt="Prisma" title="Prisma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />&nbsp;<img alt="FastAPI" title="FastAPI" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />&nbsp;<img alt="Arduino / ESP32" title="Arduino / ESP32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />&nbsp;<img alt="Railway" title="Railway" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" />&nbsp;<img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;<img alt="VS Code" title="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;</p>
 
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" />
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Dalario&theme=tokyonight&hide_border=true&locale=pt_BR" height="170" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Commits, PRs, issues e estrelas" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Dalario&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
 ### 📱 Conecte-se comigo
